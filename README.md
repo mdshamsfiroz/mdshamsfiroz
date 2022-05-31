@@ -47,3 +47,6 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shamsfiroz&show_icons=true&locale=en" alt="shamsfiroz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shamsfiroz&" alt="shamsfiroz" /></p>
+                           💙 If you like my projects, Give them ⭐ and Share it with friends!
+
+                                                   Made with ❤️ by Md Shams Firoz
