@@ -1,5 +1,5 @@
-<!### Hi there 👋
->
+
+
 <!--
 **shamsfiroz/shamsfiroz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,9 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">
-<a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Md Shams Firoz....;Nice+to+meet+you!&center=true&size=30">
-  </a>
+Hello There 👋 This+is+Md Shams Firoz.... Nice to meet you
+  
 </h1>
 <h3 align="center">Programmer || Learner || Developer || A passionate frontend developer from India</h3>
 
