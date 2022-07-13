@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">
-Hello There 👋 This+is+Md Shams Firoz.... Nice to meet you
+Hello There 👋 This is Md Shams Firoz.... Nice to meet you
   
 </h1>
 <h3 align="center">Programmer || Learner || Developer || A passionate frontend developer from India</h3>
