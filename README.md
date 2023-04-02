@@ -27,7 +27,7 @@ Hello There 👋 This is Md Shams Firoz.... Nice to meet you
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Data Structures and Algorithms in Java and Web Development using MERN stack**
+- 🌱 I’m currently learning **Data Structures and Algorithms in Java**
 
 - 👯 I’m looking **to collaborate on new and exciting project ideas**
 
