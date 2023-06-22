@@ -125,23 +125,16 @@ Don't miss the opportunity to collaborate with Md Shams Firoz. Contact him today
 <br>
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/coder.shams) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mdshamsfiroz/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mdshamsfiroz) [![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white)](https://www.youtube.com/@mdshamsfiroz/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/coder.shams) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdshamsfiroz/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mdshamsfiroz) [![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white)](https://www.youtube.com/@mdshamsfiroz/) 
 <br>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/md-shams-firoz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mdshamsfiroz/" height="30" width="40" /></a>
 
 
 ## 🏆 Coding Profile:
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/pandeygoverdhan/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/goverdhan_kumar1?hr_r=1)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/wh04m1)
-
-
- 
-
-
-
-
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/mdshamsfiroz/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/mdshamsfiroz?hr_r=1)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/mdshamsfiroz)
 
 
 
@@ -149,6 +142,6 @@ Don't miss the opportunity to collaborate with Md Shams Firoz. Contact him today
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mdshamsfiroz&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
- 💙 If you like my projects, Give them ⭐ and Share it with friends!
+                                 💙 If you like my projects, Give them ⭐ and Share it with friends!
 
                                                    Made with ❤️ by Md Shams Firoz
