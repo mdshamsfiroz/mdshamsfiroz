@@ -36,10 +36,9 @@ Hello There 👋 This is Md Shams Firoz.... Nice to meet you
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/md-shams-firoz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-shams-firoz-824370200/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/firoz_sf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="firoz_sf" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@shamsfiroz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@shamsfiroz" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/firozsaif01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="firozsaif01" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/md-shams-firoz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mdshamsfiroz/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/mdshamsfiroz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="firoz_sf" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/mdshamsfiroz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="firozsaif01" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -57,7 +56,8 @@ Hello There 👋 This is Md Shams Firoz.... Nice to meet you
                                                    Made with ❤️ by Md Shams Firoz
 
 ![](https://visitcount.itsvg.in/api?id=wh04m1i&icon=0&color=10)
-<h1 align="center">Hi 👋, I'm Md Shams Firoz</h1>
+<h1 align="center">Hi 👋, I'm Md Shams Firoz.....Nice to meet you</h1>
+<h3 align="center">Programmer || Learner || Developer </h3>
 # 💫 About Me: <br>
  GitHub Contributor | Data Science Enthusiast | JAVA Developer | Linux ❤️ |  Sharing insights and resources for secure coding and collaboration | Passionate about open-source projects | Let's collaborate and build a safer digital world together. <br><br>
 <pre>Introducing the Extraordinary Md Shams Firoz: Your Ticket to Technological Triumph!
