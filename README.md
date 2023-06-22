@@ -15,46 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">
-Hello There 👋 This is Md Shams Firoz.... Nice to meet you
-  
-</h1>
-<h3 align="center">Programmer || Learner || Developer </h3>
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdshamsfiroz" alt="mdshamsfiroz" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🌱 I’m currently learning **Data Structures and Algorithms in Java**
-
-- 👯 I’m looking **to collaborate on new and exciting project ideas**
-
-- 📫 How to reach me **firozsaif01@gmail.com**
-
-- ⚡ Fun fact ** It took less code to send a machine to space than to run a smartphone.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/md-shams-firoz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mdshamsfiroz/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mdshamsfiroz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="firoz_sf" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/mdshamsfiroz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="firozsaif01" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdshamsfiroz&show_icons=true&locale=en&layout=compact" alt="shamsfiroz" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdshamsfiroz&show_icons=true&locale=en" alt="shamsfiroz" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shamsfiroz&" alt="shamsfiroz" /></p>
-[![@shamsfiroz's Holopin board](https://holopin.me/shamsfiroz)] 
-
-                           💙 If you like my projects, Give them ⭐ and Share it with friends!
-
-                                                   Made with ❤️ by Md Shams Firoz
-
 ![](https://visitcount.itsvg.in/api?id=wh04m1i&icon=0&color=10)
 <h1 align="center">Hi 👋, I'm Md Shams Firoz.....Nice to meet you</h1>
 <h3 align="center">Programmer || Learner || Developer </h3>
@@ -100,27 +60,8 @@ Don't miss the opportunity to collaborate with Md Shams Firoz. Contact him today
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
-
-  <a href="https://www.owasp.org/" target="_blank" rel="noreferrer">
-    <img src="https://jowasp.github.io/images/owasp_logo_icon.png" alt="OWASP" width="40" height="40"/>
-  </a>
-  <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer">
-    <img src="https://gitlab.com/uploads/-/system/project/avatar/11903880/kali-metasploit-framework.png" alt="Metasploit" width="40" height="40"/>
-  </a>
   <a href="https://www.digitalocean.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-icon.svg" alt="DigitalOcean" width="40" height="40"/>
-  </a>
-  <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="Wireshark" width="40" height="40"/>
-  </a>
-  <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer">
-    <img src="https://i-loadzone.com/wp-content/uploads/2020/01/Burp-Suite.png" alt="BurpSuite" width="40" height="40"/>
-  </a>
-  <a href="https://www.kali.org/" target="_blank" rel="noreferrer">
-    <img src="https://seeklogo.com/images/K/kali-linux-logo-5A3B1D1555-seeklogo.com.png" alt="Kali Linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.splunk.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.splunk.com/content/dam/splunk2/images/Planet-Splunk.png" alt="Splunk" width="40" height="40"/>
   </a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="SQL" width="40" height="40"/>
@@ -137,14 +78,15 @@ Don't miss the opportunity to collaborate with Md Shams Firoz. Contact him today
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
   </a>
- 
+<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+
 </p>
 
 
-<!-- TryHackMe Profile and Badges -->
+🏆 Badges :
 <div align="center">
   <!-- <script src="https://tryhackme.com/badge/415141"></script> -->
-<!--  <a target="_blank" href="https://tryhackme.com/p/pangoverdhan"><img title="TryHackMe Badge" alt="TryHackMe badge " src="https://tryhackme-badges.s3.amazonaws.com/pangoverdhan.png" </a> -->
+ <a target="_blank" href="https://holopin.me/shamsfiroz"><img title="TryHackMe Badge" alt="Holphin" </a>
 </div>
 <div align="center">
 <!--   <a target="_blank" href="https://tryhackme.com/pangoverdhan/badges/wireshark"><img title="Wireshark" alt="TryHackMe badge 1" src="https://tryhackme.com/img/badges/wireshark.svg" width="100"></a>
@@ -183,8 +125,9 @@ Don't miss the opportunity to collaborate with Md Shams Firoz. Contact him today
 <br>
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pan_goverdhan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/goverdhankumar/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/P__Goverdhan_) [![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white)](https://www.youtube.com/@G0V3RDH4N/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/coder.shams) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mdshamsfiroz/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mdshamsfiroz) [![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white)](https://www.youtube.com/@mdshamsfiroz/) 
 <br>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/md-shams-firoz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mdshamsfiroz/" height="30" width="40" /></a>
 
 
 ## 🏆 Coding Profile:
