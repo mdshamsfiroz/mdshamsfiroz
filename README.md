@@ -45,8 +45,8 @@ Don't miss the opportunity to collaborate with Md Shams Firoz. Contact him today
 <!-- <img align="right" alt="Hacker" width="350" src= "https://media.tenor.com/images/b09a5c53026b5b30935947f380107bdc/tenor.gif"><br> -->
 <!-- Snake animation -->
 <div align="center">
-  <img alt="Snake animation dark mode" src="https://raw.githubusercontent.com/migueltc13/migueltc13/main/.github/images/github-snake-dark.svg#gh-dark-mode-only"/>
-  <img alt="Snake animation light mode" src="https://raw.githubusercontent.com/migueltc13/migueltc13/main/.github/images/github-contribution-grid-snake.svg#gh-light-mode-only"/>
+  <img alt="Snake animation dark mode" src="https://raw.githubusercontent.com/mdshamsfiroz/mdshamsfiroz/main/.github/images/github-snake-dark.svg#gh-dark-mode-only"/>
+  <img alt="Snake animation light mode" src="https://raw.githubusercontent.com/mdshamsfiroz/mdshamsfiroz/main/.github/images/github-contribution-grid-snake.svg#gh-light-mode-only"/>
 </div>
 
 
